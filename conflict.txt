@@ -1,2 +1,6 @@
 tst-conflict
+<<<<<<< HEAD
 tst-conflict
+=======
+tst-conflict
+>>>>>>> 777c135089c743f9c1f9f840d1abe5391f08d123
